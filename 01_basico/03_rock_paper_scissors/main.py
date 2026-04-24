@@ -27,7 +27,7 @@ resultado = StringVar()
 def jogar():
     escolha_pc = random.randint(1, 3)
     if escolha_pc == 1:
-        escolha_pc = "pedra"      # = não ==
+        escolha_pc = "pedra"     
     elif escolha_pc == 2:
         escolha_pc = "papel"
     else:
