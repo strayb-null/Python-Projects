@@ -53,6 +53,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | # | Projeto | Descrição | Status |
 |---|---------|-----------|--------|
 | 01 | [`calculator`](./01_basico/01_Calc/) | Calculadora simples no terminal | ✅ |
+| 02 | [`number guessing game`](./01_basico/02_number_guessing_game/) | Calculadora simples no terminal | ✅ |
 
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
