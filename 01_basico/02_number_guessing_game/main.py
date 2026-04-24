@@ -1,6 +1,20 @@
-def main():
-    print("Hello from 02-number-guessing-game!")
+import random
 
+secret = random.randint(1,100)
 
-if __name__ == "__main__":
-    main()
+while True:
+
+    try:
+        guess = int(input("Digite um número: "))
+    except ValueError:
+        print("\nOpção inválida\n") 
+        continue
+      
+    if guess == secret:
+        print(f"\nParabéns, você acertou o número secreto: {guess}")
+        break
+    elif guess > secret:
+        print("O número secreto é MENOR!")
+    elif guess < secret:
+        print("O número secreto é MAIOR!")
+   
