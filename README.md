@@ -57,6 +57,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 03 | [`rock paper scissors`](./01_basico/03_rock_paper_scissors/) | Jogo simples com interface gráfica | ✅ |
 | 04 | [`mad libs cli`](./01_basico/04_mad_libs_cli/) | Gerador de Histórias Interativo | ✅ |
 | 05 | [`05_21_number_game`](./01_basico/05_21_number_game/) | Simples jogo de somar até 21 | ✅ |
+| 06 | [`06_hangman`](./01_basico/06_hangman//) | Simples jogo de forca | 🚧 |
 
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
