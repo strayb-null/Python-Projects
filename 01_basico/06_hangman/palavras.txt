@@ -1,0 +1,11 @@
+python
+code
+game
+hangman
+learn
+program
+computer
+keyboard
+monitor
+developer
+software
