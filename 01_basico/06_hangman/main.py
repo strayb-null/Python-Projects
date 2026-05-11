@@ -33,6 +33,25 @@ def get_input_jogador(inputs_anteriores_jogador):
             return input_jogador
         print("Entrada inválida. Digite uma letra de a-z que ainda não usou.\n ")
 
+# ═══════════════════════════════════════════════════════════
+# ETAPA 3: Mostrar o estado do jogo
+# ═══════════════════════════════════════════════════════════
+def mostrar_letras_tentadas(inputs_anteriores_jogador):
+    """Mostra as letras já usadas em ordem alfábetica"""
+    return " | ".join(sorted(inputs_anteriores_jogador))
+
+def criar_palavra_adivinhada(palavra_alvo, inputs_anteriores_jogador):
+    """Constrói a palavra com underscores para letras não adivinhadas."""
+    letras_atuais = []
+    for letra in palavra_alvo:
+        if letra in inputs_anteriores_jogador:
+            letras_atuais.append(letra)
+        else:
+            letras_atuais.append("_")
+    return " ".join(letras_atuais)
+
+
+
 
 
 
