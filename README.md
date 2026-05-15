@@ -58,7 +58,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 04 | [`mad libs cli`](./01_basico/04_mad_libs_cli/) | Gerador de Histórias Interativo | ✅ |
 | 05 | [`05_21_number_game`](./01_basico/05_21_number_game/) | Simples jogo de somar até 21 | ✅ |
 | 06 | [`06_hangman`](./01_basico/06_hangman/) | Simples jogo de forca | ✅ |
-| 07 | [`07_cows_and_bulls`](./01_basico/07_cows_and_bulls/) | jogo de decifrar códigos | 🚧 |
+| 07 | [`07_cows_and_bulls`](./01_basico/07_cows_and_bulls/) | jogo de decifrar códigos | ✅ |
 
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
