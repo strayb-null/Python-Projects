@@ -61,6 +61,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 07 | [`07_cows_and_bulls`](./01_basico/07_cows_and_bulls/) | jogo de decifrar códigos | ✅ |
 | 08 | [`08_flames_game`](./01_basico/08_flames_game/) |  simples jogo para prever o relacionamento entre duas pessoas | ✅ |
 | 09 | [`09_fun_facts_generator`](./01_basico/09_fun_facts_generator/) | simples gerador de curiosidades | ✅ |
+| 10 | [`10_pdf_receipt_generator`](./01_basico/10_pdf_receipt_generator/) | simples gerador de recibo | 🚧 |
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
 ---
