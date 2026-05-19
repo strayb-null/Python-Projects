@@ -1,0 +1,10 @@
+[project]
+name = "09-fun-facts-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pywebio>=1.8.4",
+    "requests>=2.34.2",
+]
