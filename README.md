@@ -63,6 +63,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 09 | [`09_fun_facts_generator`](./01_basico/09_fun_facts_generator/) | simples gerador de curiosidades | ✅ |
 | 10 | [`10_pdf_receipt_generator`](./01_basico/10_pdf_receipt_generator/) | simples gerador de recibo | ✅ |
 | 11 | [`11_countdown_timer`](./01_basico/11_countdown_timer/) | simples countdown timer| ✅ |
+| 11 | [`12_gerador_senhas`](./01_basico/12_gerador_senhas/) | simples gerador de senhas| ✅ |
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
 ---
