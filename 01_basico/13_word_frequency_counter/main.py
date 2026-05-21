@@ -44,6 +44,31 @@ def count_words(word_list):
         else:
             frequency[word] = 1
 
+def show_results(frequency: dict[str, int], top_n=10):
+    if not frequency:
+        print("Nenhuma palavra encontrada.")
+        return
+    
+    sorted_words = sorted(
+        frequency.items(),
+        key=lambda item: item[1],
+        reverse=True
+    )
+
+    print("\n" + "="*40)
+    print(f"  TOP {top_n} PALAVRAS MAIS FREQUENTES")
+    print("="*40)
+
+    for i, (word, count) in enumerate(sorted_words[:top_n], start=1):
+        bar = "█" * count
+        print(f"  {i:>2}. {word:<15} {count:>4}x  {bar}")
+
+    print("="*40)
+    print(f"  Total de palavras únicas: {len(frequency)}")
+    print("="*40 + "\n")
+
+
+
 
 if __name__ == "__main__":
     pass
