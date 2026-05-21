@@ -64,7 +64,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 10 | [`10_pdf_receipt_generator`](./01_basico/10_pdf_receipt_generator/) | simples gerador de recibo | ✅ |
 | 11 | [`11_countdown_timer`](./01_basico/11_countdown_timer/) | simples countdown timer| ✅ |
 | 12 | [`12_gerador_senhas`](./01_basico/12_gerador_senhas/) | simples gerador de senhas| ✅ |
-| 13 | [`13_word_frequency_counter`](./01_basico/13_word_frequency_counter/) | Contador de frequência| 🚧 |
+| 13 | [`13_word_frequency_counter`](./01_basico/13_word_frequency_counter/) | Contador de frequência| ✅ |
 
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
