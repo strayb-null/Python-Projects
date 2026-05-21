@@ -1,5 +1,5 @@
 import string
-import os 
+import os
 
 def read_file(filepath):
     try:
@@ -13,7 +13,7 @@ def read_file(filepath):
         print(f"[ERRO] Falha ao ler o arquivo: {e}")
         return None
     
-def clean_and_tokenize(text: str):
+def clean_and_tokenize(text):
     text = text.lower()
 
     for char in string.punctuation:
@@ -35,6 +35,14 @@ def clean_and_tokenize(text: str):
 
     return clean_words
 
+def count_words(word_list):
+    frequency = {}
+
+    for word in word_list:
+        if word in frequency:
+            frequency[word] += 1
+        else:
+            frequency[word] = 1
 
 
 if __name__ == "__main__":
