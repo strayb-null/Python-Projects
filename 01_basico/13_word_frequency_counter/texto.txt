@@ -1,0 +1,5 @@
+Python é uma linguagem de programação poderosa e versátil.
+Programação em Python é acessível para iniciantes.
+Muitos engenheiros de software usam Python no dia a dia.
+Python domina a área de ciência de dados e machine learning.
+Aprender Python vale muito a pena para qualquer programador.

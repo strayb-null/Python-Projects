@@ -69,9 +69,50 @@ def show_results(frequency: dict[str, int], top_n=10):
     print(f"  Total de palavras únicas: {len(frequency)}")
     print("="*40 + "\n")
 
+def main():
+    default_file = "texto.txt"
+
+    if not os.path.exists(default_file):
+        print(f"[INFO] Criando arquivo de exemplo...")
+
+        with open(default_file, "w", encoding="utf-8") as f:
+            f.write("Python é uma linguagem de programação poderosa e versátil.\n")
+            f.write("Programação em Python é acessível para iniciantes.\n")
+            f.write("Muitos engenheiros de software usam Python no dia a dia.\n")
+            f.write("Python domina a área de ciência de dados e machine learning.\n")
+            f.write("Aprender Python vale muito a pena para qualquer programador.\n")
+        print(f"[INFO] Arquivo '{default_file}' criado!\n")
+
+    while True: 
+        print("Analisador de Frequência de Palavras")
+        print("--------------------------------------")
+        filepath = input(f"Digite o nome do arquivo [{default_file}]: ").strip()
+
+        if filepath == "":
+            filepath = default_file
+
+        if filepath.lower() == 'sair':
+            print("Encerrando. Até mais!")
+            break
+
+        content = read_file(filepath)
+
+        if content is None:
+            print("Tente novamente.\n")
+            continue
+
+        words = clean_and_tokenize(content)
+        frequency = count_words(words)
+        show_results(frequency)
+        again = input("Analisar outro arquivo? (s/n): ").strip().lower()
+
+        if again != 's':
+            print("Encerrando. Até mais!")
+            break
+
 
 
 
 if __name__ == "__main__":
-    pass
+    main()
 
