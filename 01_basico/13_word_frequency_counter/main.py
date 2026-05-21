@@ -3,8 +3,8 @@ import os
 
 def read_file(filepath):
     try:
-        with open(filepath, "r", encoding="utf-8"):
-            content = filepath.read()
+        with open(filepath, "r", encoding="utf-8") as file:
+            content = file.read()
             return content
     except FileNotFoundError:
         print(f"[ERRO] Arquivo '{filepath}' não encontrado.")
@@ -43,6 +43,8 @@ def count_words(word_list):
             frequency[word] += 1
         else:
             frequency[word] = 1
+
+    return frequency
 
 def show_results(frequency: dict[str, int], top_n=10):
     if not frequency:
