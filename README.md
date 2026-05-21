@@ -62,10 +62,10 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 08 | [`08_flames_game`](./01_basico/08_flames_game/) |  simples jogo para prever o relacionamento entre duas pessoas | ✅ |
 | 09 | [`09_fun_facts_generator`](./01_basico/09_fun_facts_generator/) | simples gerador de curiosidades | ✅ |
 | 10 | [`10_pdf_receipt_generator`](./01_basico/10_pdf_receipt_generator/) | simples gerador de recibo | ✅ |
-| 11 | [`11_countdown_timer`](./01_basico/11_countdown_timer/) | simples countdown timer| ✅ |
-| 12 | [`12_gerador_senhas`](./01_basico/12_gerador_senhas/) | simples gerador de senhas| ✅ |
-| 13 | [`13_word_frequency_counter`](./01_basico/13_word_frequency_counter/) | Contador de frequência| ✅ |
-
+| 11 | [`11_countdown_timer`](./01_basico/11_countdown_timer/) | simples countdown timer | ✅ |
+| 12 | [`12_gerador_senhas`](./01_basico/12_gerador_senhas/) | simples gerador de senhas | ✅ |
+| 13 | [`13_word_frequency_counter`](./01_basico/13_word_frequency_counter/) | Contador de frequência | ✅ |
+| 14 | [`14_2048_game`](./01_basico/14_2048_game/) | single-player puzzle game | 🚧 |
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
 ---
