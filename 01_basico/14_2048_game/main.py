@@ -79,17 +79,24 @@ def draw_grid(window):
 
     pygame.draw.rect(window, OUTLINE_COLOR, (0,0, WIDTH, HEIGHT), OUTLINE_THICKNESS)
 
-def draw(window):
+def draw(window, tiles):
     window.fill(BACKGROUND_COLOR)
     
+    for tile in tiles.values():
+        tile.draw(window)
+
     draw_grid(window)
 
     pygame.display.update()
 
 
+
+
 def main(window):
     clock = pygame.time.Clock()
     run = True
+
+    tiles = {}
 
     while run:
         clock.tick(FPS)
@@ -99,7 +106,7 @@ def main(window):
                 run = False
                 break
         
-        draw(window)
+        draw(window, tiles)
 
     pygame.quit()
 
