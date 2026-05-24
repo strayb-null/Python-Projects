@@ -65,7 +65,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 11 | [`11_countdown_timer`](./01_basico/11_countdown_timer/) | simples countdown timer | ✅ |
 | 12 | [`12_gerador_senhas`](./01_basico/12_gerador_senhas/) | simples gerador de senhas | ✅ |
 | 13 | [`13_word_frequency_counter`](./01_basico/13_word_frequency_counter/) | Contador de frequência | ✅ |
-| 14 | [`14_2048_game`](./01_basico/14_2048_game/) | single-player puzzle game | 🚧 |
+| 14 | [`14_2048_game`](./01_basico/14_2048_game/) | single-player puzzle game | ✅ |
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
 ---
