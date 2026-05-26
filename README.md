@@ -66,6 +66,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 12 | [`12_gerador_senhas`](./01_basico/12_gerador_senhas/) | simples gerador de senhas | ✅ |
 | 13 | [`13_word_frequency_counter`](./01_basico/13_word_frequency_counter/) | Contador de frequência | ✅ |
 | 14 | [`14_2048_game`](./01_basico/14_2048_game/) | single-player puzzle game | ✅ |
+| 15 | [`15_dice_rolling`](./01_basico/15_dice_rolling/) | simples app de rolagem de dados | 🚧 |
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
 ---
