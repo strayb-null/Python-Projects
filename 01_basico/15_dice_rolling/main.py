@@ -37,8 +37,15 @@ dados = []
 total = 0
 num_de_dados = int(input("Quantos dados?\n> "))
 
+# numeros sorteados dos dados
 for dado in range(num_de_dados):
     dados.append(random.randint(1, 6))
+
+for linha in range(5):
+    for dado in dados:
+        print(dados_art.get(dado)[linha], end="")
+    print()
+
 
 for dado in dados:
     total += dado
