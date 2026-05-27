@@ -1,6 +1,6 @@
 import random 
 
-dice_art = {
+dados_art = {
     1: ("┌─────────┐",
         "│         │",
         "│    ●    │",
@@ -33,4 +33,13 @@ dice_art = {
         "└─────────┘")
 }
 
+dados = []
+total = 0
+num_de_dados = int(input("Quantos dados?\n> "))
+
+for dado in range(num_de_dados):
+    dados.append(random.randint(1, 6))
+
+for dado in dados:
+    total += dado
 
