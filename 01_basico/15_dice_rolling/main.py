@@ -50,3 +50,4 @@ for linha in range(5):
 for dado in dados:
     total += dado
 
+print(f"\nTotal: {total}")
