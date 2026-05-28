@@ -35,7 +35,14 @@ dados_art = {
 
 dados = []
 total = 0
-num_de_dados = int(input("Quantos dados?\n> "))
+
+while True:
+    num_de_dados = int(input("Quantos dados?\n> "))
+    if num_de_dados <= 10:
+        break
+    else:
+        print("\nMáximo 10 dados! Tente novamente.\n")
+    
 
 # numeros sorteados dos dados
 for dado in range(num_de_dados):
