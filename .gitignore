@@ -13,3 +13,7 @@ wheels/
 00_Instruções/
 testes/
 teste.py
+
+__pycache__/
+*.pyc
+*.pyo
