@@ -67,6 +67,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 13 | [`13_word_frequency_counter`](./01_basico/13_word_frequency_counter/) | Contador de frequência | ✅ |
 | 14 | [`14_2048_game`](./01_basico/14_2048_game/) | single-player puzzle game | ✅ |
 | 15 | [`15_dice_rolling`](./01_basico/15_dice_rolling/) | simples app de rolagem de dados | ✅ |
+| 16 | [`16_caesar’s_cipher`](./01_basico/16_caesar’s_cipher/) | Caesar cipher decoder/encoder  | ✅ |
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
 ---
