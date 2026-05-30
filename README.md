@@ -69,6 +69,7 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 | 15 | [`15_dice_rolling`](./01_basico/15_dice_rolling/) | simples app de rolagem de dados | ✅ |
 | 16 | [`16_caesar’s_cipher`](./01_basico/16_caesar’s_cipher/) | Caesar cipher decoder/encoder  | ✅ |
 | 17 | [`17_palindrome_checker`](./01_basico/17_palindrome_checker/) | verificar se uma string é um palíndromo  | ✅ |
+| 18 | [`18_screenshot`](./01_basico/18_screenshot/) | projeto simples para tirar prints da tela  | ✅ |
 
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
