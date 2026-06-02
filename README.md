@@ -16,7 +16,7 @@
 
 <br><br>
 
-![Projetos](https://img.shields.io/badge/📦_Projetos-1%20%2F%20100+-3776AB?style=flat-square)
+![Projetos](https://img.shields.io/badge/📦_Projetos-18%20%2F%20100+-3776AB?style=flat-square)
 ![Status](https://img.shields.io/badge/🚀_Status-Em%20andamento-22c55e?style=flat-square)
 ![Foco](https://img.shields.io/badge/🎯_Foco-Aprendizado-DE5FE9?style=flat-square)
 
@@ -28,9 +28,9 @@
 
 ## 📌 Sobre
 
-Aqui guardo pequenos projetos feitos durante meu processo de aprendizado. O foco não é criar aplicações perfeitas ou prontas para portfólio, mas **praticar conceitos**, testar ideias e aprender com os erros.
+Aqui guardo projetos feitos durante meu processo de aprendizado. O foco não é criar aplicações perfeitas ou prontas para portfólio, mas **praticar conceitos**, testar ideias e aprender com os erros.
 
-> 💡 A meta é clara: **100+ projetos**, aumentando gradualmente a complexidade.
+> 💡 A meta é clara: **100+ projetos**, um de cada vez.
 
 ---
 
@@ -38,13 +38,11 @@ Aqui guardo pequenos projetos feitos durante meu processo de aprendizado. O foco
 
 ```
 PythonProjects/
-├── 01_basico/
-├── 02_intermediario/
-├── 03_avancado/
+├── Projetos/
 └── README.md
 ```
 
-Cada pasta representa um projeto independente, geralmente pequeno e focado em um conceito específico.
+Cada pasta dentro de `Projetos/` é independente, geralmente pequena e focada em um conceito específico.
 
 ---
 
@@ -52,24 +50,24 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 
 | # | Projeto | Descrição | Status |
 |---|---------|-----------|--------|
-| 01 | [`calculator`](./01_basico/01_Calc/) | Calculadora simples no terminal | ✅ |
-| 02 | [`number guessing game`](./01_basico/02_number_guessing_game/) | Jogo simples de adivinhação de números  | ✅ |
-| 03 | [`rock paper scissors`](./01_basico/03_rock_paper_scissors/) | Jogo simples com interface gráfica | ✅ |
-| 04 | [`mad libs cli`](./01_basico/04_mad_libs_cli/) | Gerador de Histórias Interativo | ✅ |
-| 05 | [`05_21_number_game`](./01_basico/05_21_number_game/) | Simples jogo de somar até 21 | ✅ |
-| 06 | [`06_hangman`](./01_basico/06_hangman/) | Simples jogo de forca | ✅ |
-| 07 | [`07_cows_and_bulls`](./01_basico/07_cows_and_bulls/) | jogo de decifrar códigos | ✅ |
-| 08 | [`08_flames_game`](./01_basico/08_flames_game/) |  simples jogo para prever o relacionamento entre duas pessoas | ✅ |
-| 09 | [`09_fun_facts_generator`](./01_basico/09_fun_facts_generator/) | simples gerador de curiosidades | ✅ |
-| 10 | [`10_pdf_receipt_generator`](./01_basico/10_pdf_receipt_generator/) | simples gerador de recibo | ✅ |
-| 11 | [`11_countdown_timer`](./01_basico/11_countdown_timer/) | simples countdown timer | ✅ |
-| 12 | [`12_gerador_senhas`](./01_basico/12_gerador_senhas/) | simples gerador de senhas | ✅ |
-| 13 | [`13_word_frequency_counter`](./01_basico/13_word_frequency_counter/) | Contador de frequência | ✅ |
-| 14 | [`14_2048_game`](./01_basico/14_2048_game/) | single-player puzzle game | ✅ |
-| 15 | [`15_dice_rolling`](./01_basico/15_dice_rolling/) | simples app de rolagem de dados | ✅ |
-| 16 | [`16_caesar’s_cipher`](./01_basico/16_caesar’s_cipher/) | Caesar cipher decoder/encoder  | ✅ |
-| 17 | [`17_palindrome_checker`](./01_basico/17_palindrome_checker/) | verificar se uma string é um palíndromo  | ✅ |
-| 18 | [`18_screenshot`](./01_basico/18_screenshot/) | projeto simples para tirar prints da tela  | ✅ |
+| 01 | [`calculator`](./Projetos/01_Calc/) | Calculadora simples no terminal | ✅ |
+| 02 | [`number guessing game`](./Projetos/02_number_guessing_game/) | Jogo simples de adivinhação de números | ✅ |
+| 03 | [`rock paper scissors`](./Projetos/03_rock_paper_scissors/) | Jogo simples com interface gráfica | ✅ |
+| 04 | [`mad libs cli`](./Projetos/04_mad_libs_cli/) | Gerador de histórias interativo | ✅ |
+| 05 | [`21 number game`](./Projetos/05_21_number_game/) | Simples jogo de somar até 21 | ✅ |
+| 06 | [`hangman`](./Projetos/06_hangman/) | Simples jogo de forca | ✅ |
+| 07 | [`cows and bulls`](./Projetos/07_cows_and_bulls/) | Jogo de decifrar códigos | ✅ |
+| 08 | [`flames game`](./Projetos/08_flames_game/) | Simples jogo para prever o relacionamento entre duas pessoas | ✅ |
+| 09 | [`fun facts generator`](./Projetos/09_fun_facts_generator/) | Simples gerador de curiosidades | ✅ |
+| 10 | [`pdf receipt generator`](./Projetos/10_pdf_receipt_generator/) | Simples gerador de recibo | ✅ |
+| 11 | [`countdown timer`](./Projetos/11_countdown_timer/) | Simples countdown timer | ✅ |
+| 12 | [`gerador de senhas`](./Projetos/12_gerador_senhas/) | Simples gerador de senhas | ✅ |
+| 13 | [`word frequency counter`](./Projetos/13_word_frequency_counter/) | Contador de frequência | ✅ |
+| 14 | [`2048 game`](./Projetos/14_2048_game/) | Single-player puzzle game | ✅ |
+| 15 | [`dice rolling`](./Projetos/15_dice_rolling/) | Simples app de rolagem de dados | ✅ |
+| 16 | [`caesar's cipher`](./Projetos/16_caesar's_cipher/) | Caesar cipher decoder/encoder | ✅ |
+| 17 | [`palindrome checker`](./Projetos/17_palindrome_checker/) | Verificar se uma string é um palíndromo | ✅ |
+| 18 | [`screenshot`](./Projetos/18_screenshot/) | Projeto simples para tirar prints da tela | ✅ |
 
 > **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
 
@@ -85,5 +83,3 @@ Cada pasta representa um projeto independente, geralmente pequeno e focado em um
 ---
 
 *Feito com dedicação, erros e muita prática.*
-
-
