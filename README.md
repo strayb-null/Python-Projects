@@ -16,7 +16,7 @@
 
 <br><br>
 
-![Projetos](https://img.shields.io/badge/📦_Projetos-18%20%2F%20100+-3776AB?style=flat-square)
+![Projetos](https://img.shields.io/badge/📦_Projetos-19%20%2F%20100+-3776AB?style=flat-square)
 ![Status](https://img.shields.io/badge/🚀_Status-Em%20andamento-22c55e?style=flat-square)
 ![Foco](https://img.shields.io/badge/🎯_Foco-Aprendizado-DE5FE9?style=flat-square)
 
@@ -68,6 +68,7 @@ Cada pasta dentro de `Projetos/` é independente, geralmente pequena e focada em
 | 16 | [`caesar's cipher`](./Projetos/16_caesar's_cipher/) | Caesar cipher decoder/encoder | 🟢 | ✅ |
 | 17 | [`palindrome checker`](./Projetos/17_palindrome_checker/) | Verificar se uma string é um palíndromo | 🟢 | ✅ |
 | 18 | [`screenshot`](./Projetos/18_screenshot/) | Projeto simples para tirar prints da tela | 🟢 | ✅ |
+| 19 | [`personal finance tracker`](./Projetos/19_personal_finance_tracker/) | Rastreador simples de finanças pessoais | 🟡 | ✅ |
 
 > **Status:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer 
 
