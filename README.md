@@ -48,28 +48,30 @@ Cada pasta dentro de `Projetos/` é independente, geralmente pequena e focada em
 
 ## 🚀 Projetos
 
-| # | Projeto | Descrição | Status |
-|---|---------|-----------|--------|
-| 01 | [`calculator`](./Projetos/01_Calc/) | Calculadora simples no terminal | ✅ |
-| 02 | [`number guessing game`](./Projetos/02_number_guessing_game/) | Jogo simples de adivinhação de números | ✅ |
-| 03 | [`rock paper scissors`](./Projetos/03_rock_paper_scissors/) | Jogo simples com interface gráfica | ✅ |
-| 04 | [`mad libs cli`](./Projetos/04_mad_libs_cli/) | Gerador de histórias interativo | ✅ |
-| 05 | [`21 number game`](./Projetos/05_21_number_game/) | Simples jogo de somar até 21 | ✅ |
-| 06 | [`hangman`](./Projetos/06_hangman/) | Simples jogo de forca | ✅ |
-| 07 | [`cows and bulls`](./Projetos/07_cows_and_bulls/) | Jogo de decifrar códigos | ✅ |
-| 08 | [`flames game`](./Projetos/08_flames_game/) | Simples jogo para prever o relacionamento entre duas pessoas | ✅ |
-| 09 | [`fun facts generator`](./Projetos/09_fun_facts_generator/) | Simples gerador de curiosidades | ✅ |
-| 10 | [`pdf receipt generator`](./Projetos/10_pdf_receipt_generator/) | Simples gerador de recibo | ✅ |
-| 11 | [`countdown timer`](./Projetos/11_countdown_timer/) | Simples countdown timer | ✅ |
-| 12 | [`gerador de senhas`](./Projetos/12_gerador_senhas/) | Simples gerador de senhas | ✅ |
-| 13 | [`word frequency counter`](./Projetos/13_word_frequency_counter/) | Contador de frequência | ✅ |
-| 14 | [`2048 game`](./Projetos/14_2048_game/) | Single-player puzzle game | ✅ |
-| 15 | [`dice rolling`](./Projetos/15_dice_rolling/) | Simples app de rolagem de dados | ✅ |
-| 16 | [`caesar's cipher`](./Projetos/16_caesar's_cipher/) | Caesar cipher decoder/encoder | ✅ |
-| 17 | [`palindrome checker`](./Projetos/17_palindrome_checker/) | Verificar se uma string é um palíndromo | ✅ |
-| 18 | [`screenshot`](./Projetos/18_screenshot/) | Projeto simples para tirar prints da tela | ✅ |
+| # | Projeto | Descrição | Dificuldade | Status |
+|---|---------|-----------|:-----------:|--------|
+| 01 | [`calculator`](./Projetos/01_Calc/) | Calculadora simples no terminal | 🟢 | ✅ |
+| 02 | [`number guessing game`](./Projetos/02_number_guessing_game/) | Jogo simples de adivinhação de números | 🟢 | ✅ |
+| 03 | [`rock paper scissors`](./Projetos/03_rock_paper_scissors/) | Jogo simples com interface gráfica | 🟢 | ✅ |
+| 04 | [`mad libs cli`](./Projetos/04_mad_libs_cli/) | Gerador de histórias interativo | 🟢 | ✅ |
+| 05 | [`21 number game`](./Projetos/05_21_number_game/) | Simples jogo de somar até 21 | 🟢 | ✅ |
+| 06 | [`hangman`](./Projetos/06_hangman/) | Simples jogo de forca | 🟢 | ✅ |
+| 07 | [`cows and bulls`](./Projetos/07_cows_and_bulls/) | Jogo de decifrar códigos | 🟢 | ✅ |
+| 08 | [`flames game`](./Projetos/08_flames_game/) | Simples jogo para prever o relacionamento entre duas pessoas | 🟢 | ✅ |
+| 09 | [`fun facts generator`](./Projetos/09_fun_facts_generator/) | Simples gerador de curiosidades | 🟢 | ✅ |
+| 10 | [`pdf receipt generator`](./Projetos/10_pdf_receipt_generator/) | Simples gerador de recibo | 🟢 | ✅ |
+| 11 | [`countdown timer`](./Projetos/11_countdown_timer/) | Simples countdown timer | 🟢 | ✅ |
+| 12 | [`gerador de senhas`](./Projetos/12_gerador_senhas/) | Simples gerador de senhas | 🟢 | ✅ |
+| 13 | [`word frequency counter`](./Projetos/13_word_frequency_counter/) | Contador de frequência | 🟢 | ✅ |
+| 14 | [`2048 game`](./Projetos/14_2048_game/) | Single-player puzzle game | 🟡 | ✅ |
+| 15 | [`dice rolling`](./Projetos/15_dice_rolling/) | Simples app de rolagem de dados | 🟢 | ✅ |
+| 16 | [`caesar's cipher`](./Projetos/16_caesar's_cipher/) | Caesar cipher decoder/encoder | 🟢 | ✅ |
+| 17 | [`palindrome checker`](./Projetos/17_palindrome_checker/) | Verificar se uma string é um palíndromo | 🟢 | ✅ |
+| 18 | [`screenshot`](./Projetos/18_screenshot/) | Projeto simples para tirar prints da tela | 🟢 | ✅ |
 
-> **Legenda:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer
+> **Status:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer 
+
+> **Dificuldade:** 🟢 Fácil · 🟡 Médio · 🔴 Difícil
 
 ---
 
