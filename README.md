@@ -84,4 +84,12 @@ Cada pasta dentro de `Projetos/` é independente, geralmente pequena e focada em
 
 ---
 
+<div align="center">
+
 *Feito com dedicação, erros e muita prática.*
+
+<br>
+
+<img src="ue.jpeg" width="200" />
+
+</div>
