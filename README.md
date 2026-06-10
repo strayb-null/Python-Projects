@@ -30,7 +30,7 @@
 
 Aqui guardo projetos feitos durante meu processo de aprendizado. O foco não é criar aplicações perfeitas ou prontas para portfólio, mas **praticar conceitos**, testar ideias e aprender com os erros.
 
-> 💡 A meta é clara: **100+ projetos**, um de cada vez.
+> 💡 A meta é: **100+ projetos**.
 
 ---
 
@@ -42,7 +42,7 @@ PythonProjects/
 └── README.md
 ```
 
-Cada pasta dentro de `Projetos/` é independente, geralmente pequena e focada em um conceito específico.
+Cada pasta dentro de `Projetos/` é independente, geralmente pequena e focada em um conceito específico, mas devido à minha hiperatividade, pode ter várias coisas sem sentido também, que eu queria fazer e fiz kkkk.
 
 ---
 
@@ -86,7 +86,7 @@ Cada pasta dentro de `Projetos/` é independente, geralmente pequena e focada em
 
 <div align="center">
 
-*Feito com dedicação, erros e muita prática.*
+*Feito com dedicação, erros, tipo, muito erros mesmo! Mas é uma experiência legal.*
 
 <br>
 
