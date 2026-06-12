@@ -1,0 +1,60 @@
+data,valor,categoria,descricao
+01-06-2026,5800.00,Ganhos,Salário mensal
+02-06-2026,350.00,Despesas,Supermercado semanal
+03-06-2026,120.00,Despesas,Combustível
+04-06-2026,89.90,Despesas,Streaming Netflix/Spotify
+05-06-2026,450.00,Ganhos,Freelance design
+06-06-2026,280.00,Despesas,Restaurante e lazer
+07-06-2026,1500.00,Despesas,Aluguel junho
+08-06-2026,95.00,Despesas,Farmácia
+09-06-2026,200.00,Ganhos,Venda de item usado
+10-06-2026,180.00,Despesas,Conta de luz
+11-06-2026,67.50,Despesas,Transporte público
+12-06-2026,320.00,Despesas,Compras online
+13-06-2026,5800.00,Ganhos,Salário mensal
+14-06-2026,410.00,Despesas,Supermercado quinzenal
+15-06-2026,150.00,Despesas,Manutenção carro
+16-06-2026,29.90,Despesas,Assinatura Claude Code
+17-06-2026,750.00,Ganhos,Bônus projeto
+18-06-2026,220.00,Despesas,Jantar fora
+19-06-2026,1800.00,Despesas,Parcela financiamento
+20-06-2026,85.00,Despesas,Plano de celular
+21-06-2026,300.00,Ganhos,Cashback cartão
+22-06-2026,195.00,Despesas,Academia mensalidade
+23-06-2026,540.00,Despesas,Eletrônicos e periféricos
+24-06-2026,1200.00,Ganhos,Rendimento investimento
+25-06-2026,310.00,Despesas,Supermercado mensal
+26-06-2026,175.00,Despesas,Estacionamento e pedágio
+27-06-2026,49.90,Despesas,App de delivery
+28-06-2026,600.00,Ganhos,Aula particular
+29-06-2026,260.00,Despesas,Conta de água e gás
+30-06-2026,140.00,Despesas,Livros e cursos
+01-07-2026,5800.00,Ganhos,Salário mensal
+02-07-2026,380.00,Despesas,Supermercado semanal
+03-07-2026,135.00,Despesas,Combustível
+04-07-2026,89.90,Despesas,Streaming HBO/Disney
+05-07-2026,900.00,Ganhos,Consultoria extra
+06-07-2026,300.00,Despesas,Passeio fim de semana
+07-07-2026,1500.00,Despesas,Aluguel julho
+08-07-2026,110.00,Despesas,Consulta médica
+09-07-2026,250.00,Ganhos,Venda artesanato
+10-07-2026,195.00,Despesas,Internet e TV
+11-07-2026,78.00,Despesas,Ônibus e metrô
+12-07-2026,420.00,Despesas,Roupas e calçados
+13-07-2026,5800.00,Ganhos,Salário mensal
+14-07-2026,390.00,Despesas,Supermercado quinzenal
+15-07-2026,200.00,Despesas,Revisão veículo
+16-07-2026,29.90,Despesas,Assinatura GitHub Copilot
+17-07-2026,500.00,Ganhos,Dividendos ações
+18-07-2026,270.00,Despesas,Cinema e pipoca
+19-07-2026,1800.00,Despesas,Parcela financiamento
+20-07-2026,95.00,Despesas,Seguro residencial
+21-07-2026,180.00,Ganhos,Reembolso trabalho
+22-07-2026,195.00,Despesas,Personal trainer
+23-07-2026,480.00,Despesas,Viagem curta
+24-07-2026,1500.00,Ganhos,Projeto freelance grande
+25-07-2026,340.00,Despesas,Supermercado mensal
+26-07-2026,160.00,Despesas,Taxi e Uber
+27-07-2026,65.00,Despesas,Lanche e café
+28-07-2026,400.00,Ganhos,Mentoria iniciantes
+29-07-2026,285.00,Despesas,Condomínio
