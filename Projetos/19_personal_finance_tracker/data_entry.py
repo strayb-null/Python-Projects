@@ -36,4 +36,5 @@ def get_categoria():
 
 
 def get_descricao():
-    return input("Digite uma descrição (opcional): ")
+    descricao = input("Digite uma descrição (opcional): ")
+    return descricao if descricao else "Sem Descrição"
