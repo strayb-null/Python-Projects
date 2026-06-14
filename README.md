@@ -69,6 +69,7 @@ Cada pasta dentro de `Projetos/` é independente, geralmente pequena e focada em
 | 17 | [`palindrome checker`](./Projetos/17_palindrome_checker/) | Verificar se uma string é um palíndromo | 🟢 | ✅ |
 | 18 | [`screenshot`](./Projetos/18_screenshot/) | Projeto simples para tirar prints da tela | 🟢 | ✅ |
 | 19 | [`personal finance tracker`](./Projetos/19_personal_finance_tracker/) | Rastreador simples de finanças pessoais | 🟡 | ✅ |
+| 20 | [`to-do list`](./Projetos/20_todo_list/) | simples gerenciador de tarefas  | 🟢 | 🚧 |
 
 > **Status:** ✅ Concluído · 🚧 Em andamento · 📋 A fazer 
 
